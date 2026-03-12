@@ -9,6 +9,6 @@ return "Welcome to my Flask API!"
 def get_student():
 return jsonify({
 "name": "Your Name",
-"grade": 10,
-"section": "Zechariah"
+"grade": 1.2,
+"section": "Android"
 })
